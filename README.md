@@ -3,7 +3,7 @@
 🎓 B.Tech CSE | 3rd Year
 💻 Learning: DSA · Web Dev · Python
 🔍 Open to Internship Opportunities
-📍 [Your City], India
+📍 Gurugram, India
 
 ## 🛠️ Skills
 - Languages: Python, C
