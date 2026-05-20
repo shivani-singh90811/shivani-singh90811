@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shivani Kumari 👋
 
-<!--
-**shivani-singh90811/shivani-singh90811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE | 3rd Year
+💻 Learning: DSA · Web Dev · Python
+🔍 Open to Internship Opportunities
+📍 [Your City], India
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Languages: Python, C
+- Web: HTML, CSS (learning)
+- DSA: Arrays, Strings (in progress)
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently
+- Solving DSA daily on LeetCode
+- Building web projects
+- Looking for internship opportunities
+
+## 📫 Connect
+- Email: shivanikumari200631@gmail.com
