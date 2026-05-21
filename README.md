@@ -1,6 +1,6 @@
 # Hi, I'm Shivani Kumari 👋
 
-🎓 B.Tech CSE | 3rd Year
+🎓 B.Tech CSE | 2nd Year
 💻 Learning: DSA · Web Dev · Python
 🔍 Open to Internship Opportunities
 📍 Gurugram, India
